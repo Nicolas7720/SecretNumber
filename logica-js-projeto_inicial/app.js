@@ -1,0 +1,1 @@
+alert("Bem-Vindo ao Jogo Número Secreto!");
